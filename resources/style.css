@@ -3,14 +3,28 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-header h1.title{
+/* HEADINGS */
+h1.title {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-header p.multimedia{
+h2.title{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h4.subtitle{
+    font-size: 21px;
+    color: Gray;  
+}
+
+/*multimedia*/
+
+#CTA{
     font-size: 16px;
     color: aquamarine
 }
+
